@@ -8,10 +8,17 @@ int main()
     int j = 0;
     int myNum;
     int c = 0;
+
     
-    printf(" Program to get the random number from 1 to 100 \n");  
     num = rand() % 100 + 1; 
     printf (" Numero sorteado: %d \n", num);  
+	
+
+    srand(time(NULL));  
+    for (i = 0; i < 10; i++) {
+        num = rand() % 100 + 1;  
+        printf("%d\n", random_num); }
+
     
     while (j==0) {
  	 printf("Digite um numero: ");
