@@ -4,25 +4,28 @@ int main() {
 	
   int i;
   int j;
+  int n_notas;  
   int soma = 0;
   int myNum;
-  int k = 10;
-  int myNumbers[k];
   float media;
 
+
+    printf("Numeros de notas: ");
+    scanf("%d", &n_notas);
+    int myNumbers[n_notas];
   
-  for (i = 0; i < k; i++) {
-    printf("Type a number: ");
+  for (i = 0; i < n_notas; i++) {
+    printf("%da nota: ", i + 1);
     scanf("%d", &myNum);
     myNumbers[i] = myNum;
     soma = soma + myNum;
-    media = soma / k;
+    media = soma / n_notas;
   }
   
     int max = myNumbers[0];
   	int min = myNumbers[0];
   
-  for (i = 0; i < k; i++) {
+  for (i = 0; i < n_notas; i++) {
 
 	if (myNumbers[i] > max )
 	{
