@@ -1,6 +1,8 @@
 #include <stdio.h>  
 #include <conio.h>  
-#include <stdlib.h>     
+#include <stdlib.h>    
+#include <time.h>
+ 
 int main()  
 {  
     // declare the local variables  
@@ -9,16 +11,16 @@ int main()
     int myNum;
     int c = 0;
 
-    
-    num = rand() % 100 + 1; 
-    printf (" Numero sorteado: %d \n", num);  
+
 	
 
     srand(time(NULL));  
     for (i = 0; i < 10; i++) {
         num = rand() % 100 + 1;  
-        printf("%d\n", random_num); }
+        }
 
+    
+   
     
     while (j==0) {
  	 printf("Digite um numero: ");
