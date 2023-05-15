@@ -1,0 +1,15 @@
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.csproj.AssemblyReference.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.GeneratedMSBuildEditorConfig.editorconfig
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.AssemblyInfoInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.AssemblyInfo.cs
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.csproj.CoreCompileInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\bin\Debug\net7.0\TesteArrayCrescente.exe
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\bin\Debug\net7.0\TesteArrayCrescente.deps.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\bin\Debug\net7.0\TesteArrayCrescente.runtimeconfig.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\bin\Debug\net7.0\TesteArrayCrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\bin\Debug\net7.0\TesteArrayCrescente.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\refint\TesteArrayCrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\TesteArrayCrescente.genruntimeconfig.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayCrescente\obj\Debug\net7.0\ref\TesteArrayCrescente.dll

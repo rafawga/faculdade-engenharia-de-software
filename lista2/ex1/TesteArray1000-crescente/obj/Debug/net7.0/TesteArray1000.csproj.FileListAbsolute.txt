@@ -1,0 +1,15 @@
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\bin\Debug\net7.0\TesteArray1000.exe
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\bin\Debug\net7.0\TesteArray1000.deps.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\bin\Debug\net7.0\TesteArray1000.runtimeconfig.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\bin\Debug\net7.0\TesteArray1000.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\bin\Debug\net7.0\TesteArray1000.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.csproj.AssemblyReference.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.GeneratedMSBuildEditorConfig.editorconfig
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.AssemblyInfoInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.AssemblyInfo.cs
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.csproj.CoreCompileInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\refint\TesteArray1000.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\TesteArray1000.genruntimeconfig.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000\obj\Debug\net7.0\ref\TesteArray1000.dll

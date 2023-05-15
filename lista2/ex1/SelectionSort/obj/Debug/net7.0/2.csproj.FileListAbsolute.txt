@@ -1,0 +1,15 @@
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\bin\Debug\net7.0\2.exe
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\bin\Debug\net7.0\2.deps.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\bin\Debug\net7.0\2.runtimeconfig.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\bin\Debug\net7.0\2.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\bin\Debug\net7.0\2.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.csproj.AssemblyReference.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\refint\2.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\2.genruntimeconfig.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\2\obj\Debug\net7.0\ref\2.dll

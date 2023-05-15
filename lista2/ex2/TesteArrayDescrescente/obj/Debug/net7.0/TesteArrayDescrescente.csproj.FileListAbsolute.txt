@@ -1,0 +1,15 @@
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.csproj.AssemblyReference.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.GeneratedMSBuildEditorConfig.editorconfig
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.AssemblyInfoInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.AssemblyInfo.cs
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.csproj.CoreCompileInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\bin\Debug\net7.0\TesteArrayDescrescente.exe
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\bin\Debug\net7.0\TesteArrayDescrescente.deps.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\bin\Debug\net7.0\TesteArrayDescrescente.runtimeconfig.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\bin\Debug\net7.0\TesteArrayDescrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\bin\Debug\net7.0\TesteArrayDescrescente.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\refint\TesteArrayDescrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\TesteArrayDescrescente.genruntimeconfig.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\TesteArrayDescrescente\obj\Debug\net7.0\ref\TesteArrayDescrescente.dll

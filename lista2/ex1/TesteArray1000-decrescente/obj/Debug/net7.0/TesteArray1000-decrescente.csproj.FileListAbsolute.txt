@@ -1,0 +1,15 @@
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\bin\Debug\net7.0\TesteArray1000-decrescente.exe
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\bin\Debug\net7.0\TesteArray1000-decrescente.deps.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\bin\Debug\net7.0\TesteArray1000-decrescente.runtimeconfig.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\bin\Debug\net7.0\TesteArray1000-decrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\bin\Debug\net7.0\TesteArray1000-decrescente.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.csproj.AssemblyReference.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.GeneratedMSBuildEditorConfig.editorconfig
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.AssemblyInfoInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.AssemblyInfo.cs
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.csproj.CoreCompileInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\refint\TesteArray1000-decrescente.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\TesteArray1000-decrescente.genruntimeconfig.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex1\TesteArray1000-decrescente\obj\Debug\net7.0\ref\TesteArray1000-decrescente.dll

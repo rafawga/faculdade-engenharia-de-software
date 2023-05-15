@@ -1,0 +1,15 @@
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\bin\Debug\net7.0\MergeSort.exe
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\bin\Debug\net7.0\MergeSort.deps.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\bin\Debug\net7.0\MergeSort.runtimeconfig.json
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\bin\Debug\net7.0\MergeSort.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\bin\Debug\net7.0\MergeSort.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.csproj.AssemblyReference.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.AssemblyInfoInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.AssemblyInfo.cs
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.csproj.CoreCompileInputs.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\refint\MergeSort.dll
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.pdb
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\MergeSort.genruntimeconfig.cache
+U:\4 - Faculdade\faculdade-engenharia-de-software\lista2\ex2\MergeSort\obj\Debug\net7.0\ref\MergeSort.dll
